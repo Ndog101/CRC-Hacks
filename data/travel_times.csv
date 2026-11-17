@@ -1,0 +1,7 @@
+from_campus,to_campus,car_typical,car_worst,transit_typical,transit_worst
+CRC,SCC,14,26,29,45
+CRC,ARC,25,44,100,130
+CRC,FLC,39,51,130,170
+SCC,ARC,18,36,75,100
+SCC,FLC,31,39,105,145
+ARC,FLC,34,42,135,160

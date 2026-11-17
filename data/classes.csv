@@ -1,0 +1,39 @@
+offering,course_code,course_name,class_number,component,professor,campus,mode,days,start_time,end_time,seats_open,waitlist
+13116,ACCT 101,Fundamentals of College Accounting,13116,LEC,Imani Brightwell,CRC,Fully Online - Asynchronous,,,,40,0
+14211,ACCT 301,Financial Accounting,14211,LEC,Tomas Halvorsen,CRC,In Person,MW,10:00 AM,12:05 PM,4,0
+12986,ARCH 320,Architectural Design and Communication I,12986,LEC,Wen Ashgrove,CRC,Partially Online,T,9:30 AM,11:40 AM,45,0
+12986,ARCH 320,Architectural Design and Communication I,12986,LEC,Wen Ashgrove,CRC,Partially Online,Th,9:30 AM,10:20 AM,45,0
+12986,ARCH 320,Architectural Design and Communication I,12987,LAB,Wen Ashgrove,CRC,In Person,Th,10:30 AM,11:50 AM,45,0
+14088,ART 300,Drawing and Composition I,14088,LEC,Dario Fennimore,CRC,Fully Online - Synchronous,TTh,4:00 PM,4:50 PM,25,0
+14088,ART 300,Drawing and Composition I,14089,LAB,Dario Fennimore,CRC,Fully Online - Synchronous,TTh,5:00 PM,6:20 PM,25,0
+12345,MATH 300,Statistics,12345,LEC,Marisol Thackeray,CRC,In Person,MW,9:00 AM,10:15 AM,3,0
+12346,MATH 300,Statistics,12346,LEC,Kofi Linwood,CRC,In Person,TTh,1:00 PM,2:15 PM,14,0
+12347,MATH 300,Statistics,12347,LEC,Anya Pemberton,CRC,Fully Online - Asynchronous,,,,40,0
+12348,MATH 300,Statistics,12348,LEC,Camila Hartwell,SCC,In Person,MW,1:00 PM,2:15 PM,22,0
+12349,MATH 300,Statistics,12349,LEC,Greta Lindqvist,ARC,In Person,TTh,9:00 AM,10:15 AM,9,0
+22001,MATH 120,College Algebra,22001,LEC,Tomas Halvorsen,CRC,In Person,MW,11:00 AM,12:15 PM,30,0
+22002,MATH 120,College Algebra,22002,LEC,Dario Fennimore,CRC,In Person,TTh,9:00 AM,10:15 AM,0,8
+22003,MATH 120,College Algebra,22003,LEC,Harper Nakamura,FLC,In Person,MW,8:00 AM,9:15 AM,17,0
+22004,MATH 120,College Algebra,22004,LEC,Greta Lindqvist,ARC,In Person,MW,10:30 AM,11:45 AM,5,0
+33001,ENGWR 300,College Composition,33001,LEC,Rafael Oakhurst,CRC,In Person,MW,10:00 AM,11:15 AM,0,6
+33002,ENGWR 300,College Composition,33002,LEC,Sana Whitlock,CRC,Partially Online,TTh,2:20 PM,3:35 PM,12,0
+33003,ENGWR 300,College Composition,33003,LEC,Jonas Verhoeven,CRC,Fully Online - Synchronous,TTh,6:00 PM,7:15 PM,25,0
+33004,ENGWR 300,College Composition,33004,LEC,Idris Valmont,SCC,In Person,MW,10:30 AM,11:45 AM,18,0
+33005,ENGWR 300,College Composition,33005,LEC,Mateo Ellsworth,ARC,In Person,TTh,11:00 AM,12:15 PM,7,0
+44001,BIOL 310,General Biology,44001,LEC,Elena Marchetti,CRC,In Person,MW,8:00 AM,9:15 AM,2,0
+44001,BIOL 310,General Biology,44011,LAB,Elena Marchetti,CRC,In Person,F,9:00 AM,11:50 AM,2,0
+44002,BIOL 310,General Biology,44002,LEC,Bao Holloway,CRC,In Person,TTh,10:00 AM,11:15 AM,20,0
+44002,BIOL 310,General Biology,44012,LAB,Bao Holloway,CRC,In Person,F,12:00 PM,2:50 PM,20,0
+44003,BIOL 310,General Biology,44003,LEC,Omar Castellane,FLC,In Person,TTh,1:00 PM,2:15 PM,11,0
+44003,BIOL 310,General Biology,44013,LAB,Omar Castellane,FLC,In Person,M,3:00 PM,5:50 PM,11,0
+55001,CISC 300,Intro to Programming,55001,LEC,Jonas Verhoeven,CRC,In Person,MW,1:00 PM,2:15 PM,28,0
+55002,CISC 300,Intro to Programming,55002,LEC,Anya Pemberton,CRC,Fully Online - Asynchronous,,,,40,0
+55003,CISC 300,Intro to Programming,55003,LEC,Harper Nakamura,FLC,In Person,MW,2:30 PM,3:45 PM,15,0
+55004,CISC 300,Intro to Programming,55004,LEC,Idris Valmont,SCC,In Person,TTh,9:00 AM,10:15 AM,0,20
+66001,PSYC 300,General Psychology,66001,LEC,Priya Delacroix,CRC,In Person,TTh,11:30 AM,12:45 PM,0,12
+66002,PSYC 300,General Psychology,66002,LEC,Nate Pickering,CRC,Partially Online,MW,2:18 PM,3:33 PM,10,0
+66003,PSYC 300,General Psychology,66003,LEC,Camila Hartwell,SCC,In Person,TTh,1:00 PM,2:15 PM,21,0
+66004,PSYC 300,General Psychology,66004,LEC,Mateo Ellsworth,ARC,In Person,MW,12:30 PM,1:45 PM,6,0
+77001,HIST 300,US History to 1877,77001,LEC,Marisol Thackeray,CRC,In Person,TTh,9:00 AM,10:15 AM,16,0
+77002,HIST 300,US History to 1877,77002,LEC,Kofi Linwood,CRC,Fully Online - Asynchronous,,,,40,0
+77003,HIST 300,US History to 1877,77003,LEC,Omar Castellane,FLC,In Person,MW,10:00 AM,11:15 AM,8,0
