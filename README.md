@@ -143,8 +143,13 @@ assets/            Logo and Rio's icon
 - The logo and Rio's icon were drawn for this project as SVG files.
 - The look of the review cards is inspired by Rate My Professors; no RMP data or code is used.
 
-All of the code in this repository was written for this project. The dependencies above are installed from
-PyPI and are not included in the repository.
+**Built with an AI coding assistant:** this project was built during the CRC Hacks submission period with
+[Claude Code](https://www.anthropic.com/claude-code) (Anthropic's AI coding assistant, running Claude), which
+wrote the code, the sample data, and the logo files. The project's author set the idea, the design decisions, and
+the feature list, and reviewed and tested the result.
+
+The code in this repository was written for this project; no starter template or other team's code was used. The
+dependencies above are installed from PyPI and are not included in the repository.
 
 ## Known limits and future work
 
