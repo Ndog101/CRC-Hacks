@@ -1,0 +1,9 @@
+# Secrets - NEVER upload these
+.env
+
+# Virtual environment (big, and anyone can recreate it)
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
